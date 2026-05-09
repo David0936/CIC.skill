@@ -89,11 +89,8 @@ CIC.skill/
 ├── README.md                         # 本文件
 └── references/
     └── sources/
-        └── articles/                 # 一手素材
-            ├── 关娜西cic独立心法-by小鱼.md      # 核心方法论 584 行
-            ├── 关娜西公众号长文-终稿.md          # 公众号传播版
-            ├── CC人物编年史传记_v6.pdf          # 编年史传记
-            └── cc报道.pdf                       # 媒体报道
+        └── articles/
+            └── CC老师编年史-by小鱼.pdf          # 人物编年史（核心素材）
 ```
 
 整个 skill 自包含——克隆即用，不依赖任何外部文件。
